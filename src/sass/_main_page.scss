@@ -1,0 +1,19 @@
+.search-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 60px;
+    background-color: rgb(14, 18, 145);
+}
+
+.search-input {
+    width: 400px;
+    height: 30px;
+}
+
+.search-btn {
+    height: 30px;
+    padding: 3px;
+    cursor: pointer;
+}
